@@ -15,7 +15,7 @@ A Vue 3 application built with **Vuetify 3**, **Vuelidate**, **Vue Router**, and
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/adebayo-ojikutu/epignosis-vue3.git
    cd epignosis_vue_3
    ```
 2. Install dependencies:
