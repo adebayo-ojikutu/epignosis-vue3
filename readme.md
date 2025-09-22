@@ -4,7 +4,7 @@ A Vue 3 application built with **Vuetify 3**, **Vuelidate**, **Vue Router**, and
 
 ## Prerequisites
 
-- **Node.js**: Recommended **v18.x** or higher (v20.x is also supported).  
+- **Node.js**: Recommended **v20.11.x** or higher.  
   Check your Node.js version with:  
   ```bash
   node -v
